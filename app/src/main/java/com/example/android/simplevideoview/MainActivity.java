@@ -34,8 +34,7 @@ public class MainActivity extends AppCompatActivity {
 
     // Use this string for part 2 (load media from the internet).
     private static final String VIDEO_SAMPLE ="oceanopacifico";
-           // "https://developers.google.com/training/images/tacoma_narrows.mp4";
-    //http://techslides.com/demos/sample-videos/small.mp4
+        
 
     private VideoView mVideoView;
     private TextView mBufferingTextView;
